@@ -56,15 +56,15 @@ elif age>=12 & age<=15:
     print("cadet")
 else print("hors categorie")
 '''
-
+'''
 #7
 nb_valeur=10
 result=0
 temp=0
-for i in range("0,nb_valeur")
+for i in range(0,nb_valeur)
     temp=temp+1
     result= temp + result
     print("somme des",nb_valeur,"premiers nombre entier est:", result)
-
+'''
 
 
